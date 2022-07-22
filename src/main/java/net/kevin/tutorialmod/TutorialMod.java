@@ -27,6 +27,7 @@ public class TutorialMod
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    // Add a comment
     public TutorialMod()
     {
         // Register the setup method for modloading
